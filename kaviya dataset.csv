@@ -1,0 +1,3 @@
+endpoint1,endpoint2,endpoint3,endpoint4,name,isbn,aisle,author
+Library/Addbook.php,Library/GetBook.php?ID={{idvalue}},Library/GetBook.php?AuthorName={{authorName}},Library/DeleteBook.php,kaviya,ka13,6565656,john joe
+Library/Addbook.php,Library/GetBook.php?ID={{idvalue}},Library/GetBook.php?AuthorName={{authorName}},Library/DeleteBook.php,kaviyas,kavi12,34423,max
